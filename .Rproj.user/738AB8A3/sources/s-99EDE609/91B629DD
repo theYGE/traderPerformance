@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "91B629DD",
-    "lastKnownWriteTime" : 1564382164,
-    "last_content_update" : 1564382164353,
+    "lastKnownWriteTime" : 1568467150,
+    "last_content_update" : 1568467150804,
     "path" : "~/Developer/ShinyApps/Stocks/server.R",
     "project_path" : "server.R",
     "properties" : {
-        "cursorPosition" : "19,49",
-        "scrollLine" : "0",
+        "cursorPosition" : "64,31",
+        "scrollLine" : "54",
         "tempName" : "Untitled1"
     },
     "relative_order" : 2,

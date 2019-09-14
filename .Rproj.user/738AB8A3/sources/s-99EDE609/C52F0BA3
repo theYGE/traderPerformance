@@ -7,13 +7,13 @@
     "folds" : "",
     "hash" : "0",
     "id" : "C52F0BA3",
-    "lastKnownWriteTime" : 1567578836,
-    "last_content_update" : 1567578836801,
+    "lastKnownWriteTime" : 1568462800,
+    "last_content_update" : 1568462800951,
     "path" : "~/Developer/ShinyApps/Stocks/returns.R",
     "project_path" : "returns.R",
     "properties" : {
-        "cursorPosition" : "149,33",
-        "scrollLine" : "0",
+        "cursorPosition" : "10,38",
+        "scrollLine" : "67",
         "tempName" : "Untitled1"
     },
     "relative_order" : 4,

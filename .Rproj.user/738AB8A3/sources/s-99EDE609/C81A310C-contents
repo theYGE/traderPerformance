@@ -1,15 +1,23 @@
 library(BatchGetSymbols)
 source("load_data.R")
 library(lubridate)
-
-
 source("returns.R")
+
+
+# sp500Index = loadSP500Index()
+
+
+
 testValues <- read.csv("Test.csv", header=TRUE, sep=",")
 testValues$ref.date = as.Date(testValues$ref.date)
 
-values_Rd <- calculateReturn_Rd(testValues)
-values_Rn <- calculateReturn_Rn(testValues)
+values_Rd <- calculateIntradayReturn(testValues)
+values_Rn <- calculateOvernightReturn(testValues)
 
+cumulative_Rd = calculateCumulativeReturn(values_Rd)
+cumulative_Rn = calculateCumulativeReturn(values_Rn)
+
+cumulative = calculateDailyCumulativeReturn(cumulative_Rd, cumulative_Rn)
 
 uniqueMonths = unique(values_Rd$month)
 for (monthVal in uniqueMonths) {
