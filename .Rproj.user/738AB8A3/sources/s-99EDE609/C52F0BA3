@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1564047355407.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C52F0BA3",
+    "lastKnownWriteTime" : 1567578836,
+    "last_content_update" : 1567578836801,
+    "path" : "~/Developer/ShinyApps/Stocks/returns.R",
+    "project_path" : "returns.R",
+    "properties" : {
+        "cursorPosition" : "149,33",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

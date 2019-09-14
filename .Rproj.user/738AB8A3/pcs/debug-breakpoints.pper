@@ -1,0 +1,36 @@
+{
+    "debugBreakpointsState" : {
+        "breakpoints" : [
+            {
+                "editor_line_number" : 20,
+                "editor_state" : 1,
+                "function_name" : "toplevel",
+                "function_steps" : "",
+                "id" : 0,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : false,
+                "line_number" : 20,
+                "needs_updated_steps" : false,
+                "package_name" : "",
+                "path" : "~/Developer/ShinyApps/Stocks/server.R",
+                "state" : 1,
+                "type" : 1
+            },
+            {
+                "editor_line_number" : 15,
+                "editor_state" : 1,
+                "function_name" : "calculateAverageReturn",
+                "function_steps" : "6,4,6",
+                "id" : 1,
+                "is_package_breakpoint" : false,
+                "is_pending_debug_completion" : true,
+                "line_number" : 15,
+                "needs_updated_steps" : false,
+                "package_name" : "",
+                "path" : "~/Developer/ShinyApps/Stocks/returns.R",
+                "state" : 1,
+                "type" : 0
+            }
+        ]
+    }
+}

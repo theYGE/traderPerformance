@@ -1,0 +1,9 @@
+{
+    "path" : "~/Developer/ShinyApps/Stocks",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
